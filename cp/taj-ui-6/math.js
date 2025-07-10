@@ -1,7 +1,7 @@
 // math6.js
 
-const math6Chapters = [
-  { code: 'M1', chapter: 'Knowing Our Numbers' },
+const Chapters = [
+  { code: 'MAT_01', chapter: 'Knowing Our Numbers' },
   { code: 'M2', chapter: 'Whole Numbers' },
   { code: 'M3', chapter: 'Playing with Numbers' },
   { code: 'M4', chapter: 'Basic Geometrical Ideas' },
