@@ -12,5 +12,6 @@ const chapters = [
   { code: 'BIO_01', chapter: 'The Living World' },
   { code: 'BIO_02', chapter: 'Plant Kingdom' },
   { code: 'ENG_01', chapter: 'Tenses' },
+  { code: '001', chapter: 'Repro' },
   { code: 'ENG_02', chapter: 'Articles' }
 ];
