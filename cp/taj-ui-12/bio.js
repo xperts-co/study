@@ -1,7 +1,3 @@
-// data.js
-
-// This file contains the list of chapters for the test application.
-// Each chapter has a unique 'code' and a 'chapter' name.
 const chapters = [
   { code: '1', chapter: 'Sexual Reproduction in Flowering Plants' },
   { code: '2', chapter: 'Human Reproduction' },
