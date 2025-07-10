@@ -18,5 +18,3 @@ const math11Chapters = [
   { code: 'M15', chapter: 'Statistics' },
   { code: 'M16', chapter: 'Probability' }
 ];
-
-export default math11Chapters;
