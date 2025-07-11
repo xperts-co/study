@@ -12,7 +12,7 @@ const chapters = [
   { code: '7', chapter: 'Applications of Derivatives' },
   { code: '8', chapter: 'Applications of Integrals' },
   { code: '9', chapter: 'Differential Equations' },
-  { code: '10', chapter: 'Vector Algebra' }
+  { code: '10', chapter: 'Vector Algebra' },
   { code: '11', chapter: 'Three dimensional Geometry' },
   { code: '12', chapter: 'Linear Programming' },
   { code: '13', chapter: 'Probability' }
