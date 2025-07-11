@@ -10,5 +10,8 @@ const chapters = [
   { code: 'BIO_01', chapter: 'Getting to Know Plants' },
   { code: 'BIO_02', chapter: 'Body Movements' },
   { code: 'ENG_01', chapter: 'The Living Organisms and Their Surroundings' },
-  { code: 'ENG_02', chapter: 'Motion and Measurement of Distances' }
+  { code: 'ENG_02', chapter: 'Motion and Measurement of Distances' },
+  { code: 'BIO_05', chapter: ' Electricity and Circuits' },
+  { code: 'ENG_09', chapter: ' Fun with Magnets' },
+  { code: 'ENG_07', chapter: 'Air Around Us' }
 ];
