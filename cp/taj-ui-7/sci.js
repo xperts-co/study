@@ -1,20 +1,19 @@
-// sci7.js
+// data.js
 
-const sci7Chapters = [
-  { code: 'S1', chapter: 'Motion and Time' },
-  { code: 'S2', chapter: 'Electric Current and its Effects' },
-  { code: 'S3', chapter: 'Light' },
-  { code: 'S4', chapter: 'Winds, Storms and Cyclones' },
-  { code: 'S5', chapter: 'Heat' },
-  { code: 'S6', chapter: 'Acids, Bases and Salts' },
-  { code: 'S7', chapter: 'Physical and Chemical Changes' },
-  { code: 'S8', chapter: 'Water: A Precious Resource' },
-  { code: 'S9', chapter: 'Wastewater Story' },
-  { code: 'S10', chapter: 'Soil' },
-  { code: 'S11', chapter: 'Nutrition in Plants' },
-  { code: 'S12', chapter: 'Nutrition in Animals' },
-  { code: 'S13', chapter: 'Respiration in Organisms' },
-  { code: 'S14', chapter: 'Transportation in Animals and Plants' },
-  { code: 'S15', chapter: 'Reproduction in Plants' },
-  { code: 'S16', chapter: 'Forests: Our Lifeline' }
+// This file contains the list of chapters for the test application.
+// Each chapter has a unique 'code' and a 'chapter' name.
+const chapters = [
+  { code: 'MATH_1', chapter: 'Integers' },
+  { code: 'MATH_2', chapter: 'Fractions and Decimals' },
+  { code: 'MATH_3', chapter: 'Data Handling' },
+  { code: 'MATH_4', chapter: 'Simple Equations' },
+  { code: 'MATH_5', chapter: 'Lines and Angles' },
+  { code: 'MATH_6', chapter: 'The Triangle and Its Properties' },
+  { code: 'MATH_7', chapter: 'Comparing Quantities' },
+  { code: 'MATH_8', chapter: 'Rational Numbers' },
+  { code: 'MATH_9', chapter: 'Perimeter and Area' },
+  { code: 'MATH_10', chapter: 'Algebraic Expressions' },
+  { code: 'MATH_11', chapter: 'Exponents and Powers' },
+  { code: 'MATH_12', chapter: 'Symmetry' },
+  { code: 'MATH_13', chapter: 'Visualising Solid Shapes' }
 ];
