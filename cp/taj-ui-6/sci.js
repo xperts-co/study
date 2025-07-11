@@ -3,15 +3,15 @@
 // This file contains the list of chapters for the test application.
 // Each chapter has a unique 'code' and a 'chapter' name.
 const chapters = [
-  { code: 'PHY_02', chapter: 'Components of Food' },
-  { code: 'CHEM_01', chapter: 'Sorting Materials into Groups' },
-  { code: 'CHEM_02', chapter: 'Separation of Substances' },
-  { code: 'CHEM_03', chapter: 'Light, Shadows and Reflections' },
-  { code: 'BIO_01', chapter: 'Getting to Know Plants' },
-  { code: 'BIO_02', chapter: 'Body Movements' },
-  { code: 'ENG_01', chapter: 'The Living Organisms and Their Surroundings' },
-  { code: 'ENG_02', chapter: 'Motion and Measurement of Distances' },
-  { code: 'BIO_05', chapter: ' Electricity and Circuits' },
-  { code: 'ENG_09', chapter: ' Fun with Magnets' },
-  { code: 'ENG_07', chapter: 'Air Around Us' }
+  { code: 'SCI_1', chapter: 'Components of Food' },
+  { code: 'SCI_2', chapter: 'Sorting Materials into Groups' },
+  { code: 'SCI_3', chapter: 'Separation of Substances' },
+  { code: 'SCI_4', chapter: 'Light, Shadows and Reflections' },
+  { code: 'SCI_5', chapter: 'Getting to Know Plants' },
+  { code: 'SCI_6', chapter: 'Body Movements' },
+  { code: 'SCI_7', chapter: 'The Living Organisms and Their Surroundings' },
+  { code: 'SCI_8', chapter: 'Motion and Measurement of Distances' },
+  { code: 'SCI_9', chapter: ' Electricity and Circuits' },
+  { code: 'SCI_10', chapter: ' Fun with Magnets' },
+  { code: 'SCI_11', chapter: 'Air Around Us' }
 ];
