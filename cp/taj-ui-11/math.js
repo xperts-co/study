@@ -1,20 +1,22 @@
-// math11.js
+// data.js
 
-const math11Chapters = [
-  { code: 'M1', chapter: 'Sets' },
-  { code: 'M2', chapter: 'Relations and Functions' },
-  { code: 'M3', chapter: 'Trigonometric Functions' },
-  { code: 'M4', chapter: 'Principle of Mathematical Induction' },
-  { code: 'M5', chapter: 'Complex Numbers and Quadratic Equations' },
-  { code: 'M6', chapter: 'Linear Inequalities' },
-  { code: 'M7', chapter: 'Permutation and Combination' },
-  { code: 'M8', chapter: 'Binomial Theorem' },
-  { code: 'M9', chapter: 'Sequences and Series' },
-  { code: 'M10', chapter: 'Straight Lines' },
-  { code: 'M11', chapter: 'Conic Sections' },
-  { code: 'M12', chapter: 'Introduction to Three Dimensional Geometry' },
-  { code: 'M13', chapter: 'Limits and Derivatives' },
-  { code: 'M14', chapter: 'Mathematical Reasoning' },
-  { code: 'M15', chapter: 'Statistics' },
-  { code: 'M16', chapter: 'Probability' }
+// This file contains the list of chapters for the test application.
+// Each chapter has a unique 'code' and a 'chapter' name.
+const chapters = [
+ { code: 'MATH_11_01', chapter: 'Sets' },
+  { code: 'MATH_11_02', chapter: 'Relations and Functions' },
+  { code: 'MATH_11_03', chapter: 'Trigonometric Functions' },
+  { code: 'MATH_11_04', chapter: 'Principle of Mathematical Induction' },
+  { code: 'MATH_11_05', chapter: 'Complex Numbers and Quadratic Equations' },
+  { code: 'MATH_11_06', chapter: 'Linear Inequalities' },
+  { code: 'MATH_11_07', chapter: 'Permutations and Combinations' },
+  { code: 'MATH_11_08', chapter: 'Binomial Theorem' },
+  { code: 'MATH_11_09', chapter: 'Sequences and Series' },
+  { code: 'MATH_11_10', chapter: 'Straight Lines' },
+  { code: 'MATH_11_11', chapter: 'Conic Sections' },
+  { code: 'MATH_11_12', chapter: 'Introduction to Three Dimensional Geometry' },
+  { code: 'MATH_11_13', chapter: 'Limits and Derivatives' },
+  { code: 'MATH_11_14', chapter: 'Mathematical Reasoning' },
+  { code: 'MATH_11_15', chapter: 'Statistics' },
+  { code: 'MATH_11_16', chapter: 'Probability' },
 ];
