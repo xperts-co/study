@@ -1,10 +1,12 @@
-// data.js
+const flashcardSets = [
+    // data.js
 
 // This is the MASTER LIST of all chapters.
 // Codes MUST be unique and are used as the ID in the database.
 // Add a new chapter here FIRST, then the teacher can add cards to it.
 
 const flashcardSets = [
+    // Class 6 Math Chapters
     {
         chapterName: "Knowing Our Numbers",
         code: "15"
@@ -61,4 +63,6 @@ const flashcardSets = [
         chapterName: "Practical Geometry",
         code: "28"
     }
+];
+
 ];
