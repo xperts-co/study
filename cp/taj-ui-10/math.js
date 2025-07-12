@@ -1,15 +1,21 @@
+// data.js
+
 // This file contains the list of chapters for the test application.
 // Each chapter has a unique 'code' and a 'chapter' name.
 const chapters = [
-  { code: 'PHY_01', chapter: 'Real Numbers' },
-  { code: 'PHY_02', chapter: 'Polynomials' },
-  { code: 'PHY_03', chapter: 'Pair of Linear Equations in Two Variables' },
-  { code: 'CHEM_01', chapter: 'Quadratic Equations' },
-  { code: 'CHEM_02', chapter: 'Arithmetic Progressions' },
-  { code: 'CHEM_03', chapter: 'Triangles' },
-  { code: 'BIO_01', chapter: 'Coordinate Geometry' },
-  { code: 'BIO_02', chapter: 'Introduction to Trigonometry' },
-  { code: 'ENG_01', chapter: 'Some Applications of Trigonometry' },
-  { code: '001', chapter: 'Circles' },
-  { code: 'ENG_02', chapter: 'Areas Related to Circles' }
+ { code: 'MATH_10_01', chapter: 'Real Numbers' },
+  { code: 'MATH_10_02', chapter: 'Polynomials' },
+  { code: 'MATH_10_03', chapter: 'Pair of Linear Equations in Two Variables' },
+  { code: 'MATH_10_04', chapter: 'Quadratic Equations' },
+  { code: 'MATH_10_05', chapter: 'Arithmetic Progressions' },
+  { code: 'MATH_10_06', chapter: 'Triangles' },
+  { code: 'MATH_10_07', chapter: 'Coordinate Geometry' },
+  { code: 'MATH_10_08', chapter: 'Introduction to Trigonometry' },
+  { code: 'MATH_10_09', chapter: 'Some Applications of Trigonometry' },
+  { code: 'MATH_10_10', chapter: 'Circles' },
+  { code: 'MATH_10_11', chapter: 'Constructions' },
+  { code: 'MATH_10_12', chapter: 'Areas Related to Circles' },
+  { code: 'MATH_10_13', chapter: 'Surface Areas and Volumes' },
+  { code: 'MATH_10_14', chapter: 'Statistics' },
+  { code: 'MATH_10_15', chapter: 'Probability' }
 ];
