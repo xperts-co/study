@@ -3,11 +3,6 @@
 // This file contains the list of chapters for the test application.
 // Each chapter has a unique 'code' and a 'chapter' name.
 const chapters = [
- // data.js
-
-// This file contains the list of chapters for the test application.
-// Each chapter has a unique 'code' and a 'chapter' name.
-const chapters = [
   { code: 'PHYS_10_01', chapter: 'Light – Reflection and Refraction' },
   { code: 'PHYS_10_02', chapter: 'The Human Eye and the Colourful World' },
   { code: 'PHYS_10_03', chapter: 'Electricity' },
@@ -23,6 +18,4 @@ const chapters = [
   { code: 'BIO_10_04', chapter: 'Heredity and Evolution' },
   { code: 'BIO_10_05', chapter: 'Our Environment' },
   { code: 'BIO_10_06', chapter: 'Management of Natural Resources' }
-];
-
 ];
