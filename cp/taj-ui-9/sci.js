@@ -1,19 +1,21 @@
-// sci9.js
+// data.js
 
-const sci9Chapters = [
-  { code: 'S1', chapter: 'Motion' },
-  { code: 'S2', chapter: 'Force and Laws of Motion' },
-  { code: 'S3', chapter: 'Gravitation' },
-  { code: 'S4', chapter: 'Work and Energy' },
-  { code: 'S5', chapter: 'Sound' },
-  { code: 'S6', chapter: 'Matter in Our Surroundings' },
-  { code: 'S7', chapter: 'Is Matter Around Us Pure?' },
-  { code: 'S8', chapter: 'Atoms and Molecules' },
-  { code: 'S9', chapter: 'Structure of the Atom' },
-  { code: 'S10', chapter: 'The Fundamental Unit of Life' },
-  { code: 'S11', chapter: 'Tissues' },
-  { code: 'S12', chapter: 'Diversity of Living Organisms' },
-  { code: 'S13', chapter: 'Why Do We Fall Ill?' },
-  { code: 'S14', chapter: 'Natural Resources' },
-  { code: 'S15', chapter: 'Improvement in Food Resources' }
+// This file contains the list of chapters for the test application.
+// Each chapter has a unique 'code' and a 'chapter' name.
+const chapters = [
+  { code: 'PHYS_09_01', chapter: 'Motion' },
+  { code: 'PHYS_09_02', chapter: 'Force and Laws of Motion' },
+  { code: 'PHYS_09_03', chapter: 'Gravitation' },
+  { code: 'PHYS_09_04', chapter: 'Work and Energy' },
+  { code: 'PHYS_09_05', chapter: 'Sound' },
+  { code: 'CHEM_09_01', chapter: 'Matter in Our Surroundings' },
+  { code: 'CHEM_09_02', chapter: 'Is Matter Around Us Pure?' },
+  { code: 'CHEM_09_03', chapter: 'Atoms and Molecules' },
+  { code: 'CHEM_09_04', chapter: 'Structure of the Atom' },
+  { code: 'BIO_09_01', chapter: 'The Fundamental Unit of Life' },
+  { code: 'BIO_09_02', chapter: 'Tissues' },
+  { code: 'BIO_09_03', chapter: 'Diversity of Living Organisms' },
+  { code: 'BIO_09_04', chapter: 'Why Do We Fall Ill?' },
+  { code: 'BIO_09_05', chapter: 'Natural Resources' },
+  { code: 'BIO_09_06', chapter: 'Improvement in Food Resources' }
 ];
