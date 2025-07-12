@@ -1,6 +1,6 @@
 // chem11.js
 
-const chem11Chapters = [
+const Chapters = [
   { code: 'C1', chapter: 'Some Basic Concepts of Chemistry' },
   { code: 'C2', chapter: 'Structure of Atom' },
   { code: 'C3', chapter: 'Classification of Elements and Periodicity in Properties' },
