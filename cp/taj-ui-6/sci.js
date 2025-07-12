@@ -3,15 +3,19 @@
 // This file contains the list of chapters for the test application.
 // Each chapter has a unique 'code' and a 'chapter' name.
 const chapters = [
-  { code: 'SCI_1', chapter: 'Components of Food' },
-  { code: 'SCI_2', chapter: 'Sorting Materials into Groups' },
-  { code: 'SCI_3', chapter: 'Separation of Substances' },
-  { code: 'SCI_4', chapter: 'Light, Shadows and Reflections' },
-  { code: 'SCI_5', chapter: 'Getting to Know Plants' },
-  { code: 'SCI_6', chapter: 'Body Movements' },
-  { code: 'SCI_7', chapter: 'The Living Organisms and Their Surroundings' },
-  { code: 'SCI_8', chapter: 'Motion and Measurement of Distances' },
-  { code: 'SCI_9', chapter: ' Electricity and Circuits' },
-  { code: 'SCI_10', chapter: ' Fun with Magnets' },
-  { code: 'SCI_11', chapter: 'Air Around Us' }
+  { code: 'PHYS_06_01', chapter: 'Motion and Measurement of Distances' },
+  { code: 'PHYS_06_02', chapter: 'Light, Shadows and Reflections' },
+  { code: 'PHYS_06_03', chapter: 'Electricity and Circuits' },
+  { code: 'PHYS_06_04', chapter: 'Fun with Magnets' },
+  { code: 'CHEM_06_01', chapter: 'Sorting Materials into Groups' },
+  { code: 'CHEM_06_02', chapter: 'Separation of Substances' },
+  { code: 'CHEM_06_03', chapter: 'Changes Around Us' },
+  { code: 'CHEM_06_04', chapter: 'Air Around Us' },
+  { code: 'CHEM_06_05', chapter: 'Water' },
+  { code: 'BIO_06_01', chapter: 'Food: Where Does It Come From?' },
+  { code: 'BIO_06_02', chapter: 'Components of Food' },
+  { code: 'BIO_06_03', chapter: 'Getting to Know Plants' },
+  { code: 'BIO_06_04', chapter: 'Body Movements' },
+  { code: 'BIO_06_05', chapter: 'The Living Organisms — Characteristics and Habitats' },
+  { code: 'BIO_06_06', chapter: 'Garbage In, Garbage Out' }
 ];
