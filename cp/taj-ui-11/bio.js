@@ -1,6 +1,8 @@
-// bio11.js
+// data.js
 
-const Chapters = [
+// This file contains the list of chapters for the test application.
+// Each chapter has a unique 'code' and a 'chapter' name.
+const chapters = [
   { code: 'BIO_11_01', chapter: 'The Living World' },
   { code: 'BIO_11_02', chapter: 'Biological Classification' },
   { code: 'BIO_11_03', chapter: 'Plant Kingdom' },
