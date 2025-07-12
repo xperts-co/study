@@ -5,7 +5,6 @@
 // Add a new chapter here FIRST, then the teacher can add cards to it.
 
 const flashcardSets = [
-    // Class 7 Science Chapters
     {
         chapterName: "Nutrition in Plants",
         code: "15"
